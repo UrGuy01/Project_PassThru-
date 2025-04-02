@@ -51,7 +51,7 @@ Unique Selling Points (USP)
 ## System Workflow
 Below is a detailed workflow diagram showing the password creation and analysis process:
 
-![Password Creation and Analysis Workflow](images/workflow-diagram.png)
+![Password Creation and Analysis Workflow](workflow-diagram.png)
 
 The diagram illustrates the complete system workflow including:
 - Password Selection and Processing
